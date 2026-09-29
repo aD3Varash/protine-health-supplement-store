@@ -1,0 +1,738 @@
+{
+  "products": [
+    {
+      "slug": "whey-isolate-dark-cocoa",
+      "name": "Whey Isolate — Dark Cocoa",
+      "tagline": "27 g of clean protein that tastes like dessert, not chalk.",
+      "description": "Cold-flow, single-origin whey isolate filtered three times for a 27 g protein hit with barely a trace of lactose. Rich dark cocoa, zero added sugar, and no gums doing heavy lifting. Mixes clean in water, milk, or your weird 2 a.m. blend.",
+      "price": 5499,
+      "compareAt": 6499,
+      "category": "protein",
+      "collections": [
+        "protein"
+      ],
+      "flavor": "Dark Cocoa",
+      "servingText": "1 scoop (31 g)",
+      "servings": 30,
+      "stock": 128,
+      "featured": true,
+      "badge": "Bestseller",
+      "images": [
+        "/images/whey.webp"
+      ],
+      "macros": {
+        "Protein": "27 g",
+        "BCAA": "5.8 g",
+        "Leucine": "2.6 g",
+        "Carbs": "2 g",
+        "Sugar": "0.5 g",
+        "Calories": "120"
+      },
+      "ingredients": "Whey protein isolate (US), cocoa mass, sunflower lecithin, sea salt, natural vanilla and cacao flavors, stevia leaf extract.",
+      "details": "Isolate, not concentrate. Our whey is cold-flow filtered three times, which pulls out the lactose, fat, and off-notes while keeping the full amino profile intact. That is why one scoop hits 27 g of protein with under a gram of sugar.\n\nThe cocoa blend uses real cocoa mass, not a dye and a dash of chocolate flavor. It mixes clean in 20 seconds with water — no blender required — and it does not turn into pudding.\n\nBatch-tested for heavy metals and purity by an independent lab. Certificates of analysis are public on request.",
+      "rating": 4.9,
+      "ratingCount": 1284,
+      "createdAt": "2025-03-12 09:00:00",
+      "id": 1,
+      "defaultSize": "1 kg",
+      "sizes": [
+        {
+          "label": "100 g",
+          "price": 699
+        },
+        {
+          "label": "200 g",
+          "price": 1299
+        },
+        {
+          "label": "500 g",
+          "price": 2999
+        },
+        {
+          "label": "1 kg",
+          "price": 5499,
+          "compareAt": 6499
+        },
+        {
+          "label": "2 kg",
+          "price": 9999
+        },
+        {
+          "label": "5 kg",
+          "price": 22999
+        }
+      ]
+    },
+    {
+      "slug": "creatine-monohydrate",
+      "name": "Creatine Monohydrate",
+      "tagline": "The most researched supplement on earth. We did not complicate it.",
+      "description": "Micronized creatine monohydrate, 5 g per scoop, nothing else on the label. The one supplement with two decades of clean human trials backing real strength and lean-mass gains. Unflavored so it disappears into anything.",
+      "price": 3499,
+      "compareAt": null,
+      "category": "creatine",
+      "collections": [
+        "creatine"
+      ],
+      "flavor": "Unflavored",
+      "servingText": "1 scoop (5 g)",
+      "servings": 60,
+      "stock": 342,
+      "featured": true,
+      "badge": "Lab Tested",
+      "images": [
+        "/images/creatine.webp"
+      ],
+      "macros": {
+        "Creatine": "5 g",
+        "Carbs": "0 g",
+        "Fat": "0 g",
+        "Sugar": "0 g",
+        "Calories": "0"
+      },
+      "ingredients": "Creatine monohydrate (Creapure). That is the whole label.",
+      "details": "Creatine monohydrate is the most studied supplement in sport history. Doses of 3–5 g per day increase phosphocreatine stores in muscle, which supports short, high-intensity efforts: heavy sets, sprints, repeated climbs.\n\nWe micronize it so it dissolves instead of sitting at the bottom of the shaker, and we leave it unflavored because 90% of the time you want it in something else.\n\nEvery batch is third-party tested for purity and heavy metals. Micronized, so no gritty sediment.",
+      "rating": 4.8,
+      "ratingCount": 2107,
+      "createdAt": "2025-01-20 09:00:00",
+      "id": 2,
+      "defaultSize": "300 g",
+      "sizes": [
+        {
+          "label": "100 g",
+          "price": 899
+        },
+        {
+          "label": "200 g",
+          "price": 1699
+        },
+        {
+          "label": "300 g",
+          "price": 3499
+        },
+        {
+          "label": "500 g",
+          "price": 5499
+        },
+        {
+          "label": "1 kg",
+          "price": 9999
+        },
+        {
+          "label": "2 kg",
+          "price": 18999
+        },
+        {
+          "label": "5 kg",
+          "price": 42999
+        }
+      ]
+    },
+    {
+      "slug": "ignite-pre-workout",
+      "name": "Ignite Pre-Workout — Citrus Surge",
+      "tagline": "Caffeine that lands clean. Focus that does not shake.",
+      "description": "A transparent 250 mg caffeine pre built around 6 g of L-citrulline and 100 mg of L-theanine, so the energy is smooth and the pump is real. No proprietary blends — every active is dosed at the clinical amount and printed on the label.",
+      "price": 4999,
+      "compareAt": null,
+      "category": "supplements",
+      "collections": [
+        "supplements"
+      ],
+      "flavor": "Citrus Surge",
+      "servingText": "1 scoop (12 g)",
+      "servings": 25,
+      "stock": 96,
+      "featured": true,
+      "badge": "New",
+      "images": [
+        "/images/pre.webp"
+      ],
+      "macros": {
+        "Caffeine": "250 mg",
+        "L-Citrulline": "6 g",
+        "Beta-Alanine": "1.6 g",
+        "L-Theanine": "100 mg",
+        "Carbs": "4 g",
+        "Sugar": "3 g"
+      },
+      "ingredients": "L-citrulline, creatine-free clear blend: citric acid, natural citrus flavors, sodium bicarbonate, sea salt, caffeine anhydrous, beta-alanine, L-theanine, stevia leaf extract.",
+      "details": "Ignite is built around the two ingredients that actually change how a session feels: L-citrulline for blood flow and caffeine paired with L-theanine for calm, focused energy.\n\n250 mg of caffeine is a full serving, not a teaser. The theanine softens the edge so you can hit a top set at 5:45 p.m. without sleeping at 3 a.m.\n\nStart with half a scoop if you are caffeine-sensitive. Every ingredient and dose is printed on the tub.",
+      "rating": 4.7,
+      "ratingCount": 634,
+      "createdAt": "2026-01-08 09:00:00",
+      "id": 3,
+      "defaultSize": "300 g",
+      "sizes": [
+        {
+          "label": "100 g",
+          "price": 1899
+        },
+        {
+          "label": "200 g",
+          "price": 3299
+        },
+        {
+          "label": "300 g",
+          "price": 4999
+        },
+        {
+          "label": "500 g",
+          "price": 7699
+        },
+        {
+          "label": "1 kg",
+          "price": 14499
+        },
+        {
+          "label": "2 kg",
+          "price": 27999
+        },
+        {
+          "label": "5 kg",
+          "price": 64999
+        }
+      ]
+    },
+    {
+      "slug": "daily-multi",
+      "name": "Daily Multi",
+      "tagline": "Your insurance policy. 23 nutrients at whole-food doses.",
+      "description": "A once-a-day multi with 23 nutrients at doses you can check against the label. D3, B12, magnesium, zinc and the rest, chelated so your body can actually use them. No fishy burps, no megadoses for marketing.",
+      "price": 2999,
+      "compareAt": null,
+      "category": "supplements",
+      "collections": [
+        "supplements"
+      ],
+      "flavor": "Unflavored",
+      "servingText": "2 softgels",
+      "servings": 60,
+      "stock": 510,
+      "featured": true,
+      "badge": null,
+      "images": [
+        "/images/multiv.webp"
+      ],
+      "macros": {
+        "Vitamin D3": "25 mcg (1000 IU)",
+        "Vitamin B12": "500 mcg",
+        "Magnesium": "100 mg",
+        "Zinc": "11 mg",
+        "Vitamin C": "90 mg"
+      },
+      "ingredients": "Vitamin D3 (cholecalciferol), vitamin C (ascorbic acid), magnesium glycinate, zinc picolinate, vitamin B12 (methylcobalamin), plus 18 more at full label doses.",
+      "details": "Most multis are a photo op. Ours is 23 nutrients at doses you can cross-check against public research, in chelated forms your body absorbs.\n\nTwo softgels with breakfast covers the gaps the rest of your diet rarely hits — D3, B12, magnesium, zinc, iodine, and the quiet micronutrients nobody notices until they are missing.\n\nSoftgels are easy to swallow and leave zero aftertaste.",
+      "rating": 4.8,
+      "ratingCount": 958,
+      "createdAt": "2025-05-02 09:00:00",
+      "id": 4,
+      "defaultSize": "120 softgels",
+      "sizes": [
+        {
+          "label": "30 softgels",
+          "price": 899
+        },
+        {
+          "label": "60 softgels",
+          "price": 1699
+        },
+        {
+          "label": "120 softgels",
+          "price": 2999
+        },
+        {
+          "label": "240 softgels",
+          "price": 5499
+        }
+      ]
+    },
+    {
+      "slug": "omega-3-1000",
+      "name": "Omega-3 1000",
+      "tagline": "1 g of EPA and DHA per softgel. No fishy burps, no exceptions.",
+      "description": "Concentrated fish oil delivering 1,000 mg of combined EPA and DHA per softgel, distilled for purity and tested per batch. Joint, heart, and brain support in two softgels a day.",
+      "price": 3299,
+      "compareAt": null,
+      "category": "supplements",
+      "collections": [
+        "supplements"
+      ],
+      "flavor": "Unflavored",
+      "servingText": "2 softgels",
+      "servings": 90,
+      "stock": 265,
+      "featured": false,
+      "badge": null,
+      "images": [
+        "/images/omega.webp"
+      ],
+      "macros": {
+        "Total Omega-3": "1,000 mg",
+        "EPA": "600 mg",
+        "DHA": "400 mg",
+        "Calories": "9"
+      },
+      "ingredients": "Concentrated fish oil (EPA, DHA), natural mixed tocopherols, gelatin, glycerin.",
+      "details": "Omega-3 1000 is a concentrated triglyceride-form fish oil. Two softgels give you a full gram of EPA + DHA — the amount most of the literature actually uses.\n\nWe distill to keep mercury and other contaminants at trace levels, and every batch ships with a third-party purity report.\n\nZero fishy burps is a real spec, not a slogan: enteric-coated softgels that dissolve in the gut, not the throat.",
+      "rating": 4.7,
+      "ratingCount": 712,
+      "createdAt": "2025-07-15 09:00:00",
+      "id": 5,
+      "defaultSize": "180 softgels",
+      "sizes": [
+        {
+          "label": "60 softgels",
+          "price": 1299
+        },
+        {
+          "label": "120 softgels",
+          "price": 2299
+        },
+        {
+          "label": "180 softgels",
+          "price": 3299
+        },
+        {
+          "label": "360 softgels",
+          "price": 5999
+        }
+      ]
+    },
+    {
+      "slug": "magnesium-gummies",
+      "name": "Magnesium Gummies — Glycinate",
+      "tagline": "Calm at the end of a loud day. 200 mg, no sugar crash.",
+      "description": "200 mg of magnesium glycinate in four tart cherry gummies with 2 g of sugar. Magnesium is the quiet worker behind sleep, recovery, and nerve function — this is the easiest way to actually take it nightly.",
+      "price": 2799,
+      "compareAt": null,
+      "category": "supplements",
+      "collections": [
+        "supplements"
+      ],
+      "flavor": "Tart Cherry",
+      "servingText": "4 gummies",
+      "servings": 30,
+      "stock": 400,
+      "featured": true,
+      "badge": "Bestseller",
+      "images": [
+        "/images/mag.webp"
+      ],
+      "macros": {
+        "Magnesium": "200 mg",
+        "Sugar": "2 g",
+        "Calories": "20"
+      },
+      "ingredients": "Magnesium glycinate, tart cherry concentrate, pectin, citric acid, natural cherry flavor, stevia leaf extract, sunflower oil, beeswax.",
+      "details": "Magnesium is involved in over 300 enzyme reactions, sleep included. Glycinate is the gentlest, best-absorbed form — no laxative surprise at 10 p.m.\n\nFour gummies cover the full 200 mg dose. Tart cherry flavor, pectin-based, and only 2 g of sugar, so they are a supplement, not a candy bar.\n\nTake them 30–60 minutes before bed. Many people report deeper sleep within a week; a few feel the difference night one.",
+      "rating": 4.9,
+      "ratingCount": 1421,
+      "createdAt": "2025-04-18 09:00:00",
+      "id": 6,
+      "defaultSize": "120 gummies",
+      "sizes": [
+        {
+          "label": "30 gummies",
+          "price": 899
+        },
+        {
+          "label": "60 gummies",
+          "price": 1599
+        },
+        {
+          "label": "120 gummies",
+          "price": 2799
+        },
+        {
+          "label": "240 gummies",
+          "price": 4999
+        }
+      ]
+    },
+    {
+      "slug": "collagen-peptides",
+      "name": "Collagen Peptides — Unflavored",
+      "tagline": "Hydrolyzed type I and III collagen that disappears into anything.",
+      "description": "12 g of grass-fed, hydrolyzed collagen peptides per scoop. Joints, skin, and connective tissue get the amino acids they are made of. Unflavored, dissolves clear, mixes into coffee, oatmeal, or a shake.",
+      "price": 3999,
+      "compareAt": null,
+      "category": "protein",
+      "collections": [
+        "protein"
+      ],
+      "flavor": "Unflavored",
+      "servingText": "1 scoop (12 g)",
+      "servings": 30,
+      "stock": 0,
+      "featured": false,
+      "badge": null,
+      "images": [
+        "/images/collagen.webp"
+      ],
+      "macros": {
+        "Collagen": "12 g",
+        "Protein": "11 g",
+        "Glycine": "4.5 g",
+        "Carbs": "0 g",
+        "Calories": "45"
+      },
+      "ingredients": "Hydrolyzed grass-fed bovine collagen peptides (type I and III). One ingredient.",
+      "details": "Collagen peptides are hydrolyzed into small fragments your body reassembles into its own collagen — the stuff your joints, tendons, skin, and gut lining are mostly made of.\n\nTwelve grams per scoop is the dose used in the studies showing reduced joint discomfort and improved skin elasticity.\n\nIt is genuinely unflavored and dissolves clear, so it goes into black coffee, smoothies, or a post-workout shake without changing anything.",
+      "rating": 4.6,
+      "ratingCount": 388,
+      "createdAt": "2025-08-30 09:00:00",
+      "id": 7,
+      "defaultSize": "360 g",
+      "sizes": [
+        {
+          "label": "100 g",
+          "price": 1399
+        },
+        {
+          "label": "200 g",
+          "price": 2399
+        },
+        {
+          "label": "360 g",
+          "price": 3999
+        },
+        {
+          "label": "500 g",
+          "price": 5499
+        },
+        {
+          "label": "1 kg",
+          "price": 9999
+        },
+        {
+          "label": "2 kg",
+          "price": 18999
+        },
+        {
+          "label": "5 kg",
+          "price": 44999
+        }
+      ]
+    },
+    {
+      "slug": "electrolytes-lemon-lime",
+      "name": "Electrolytes — Lemon Lime",
+      "tagline": "Sodium, potassium, magnesium — the crash-proof three.",
+      "description": "30 sticks of electrolytes with 420 mg of sodium, 250 mg of potassium, and 150 mg of magnesium. Zero sugar, zero dyes. Built for training days, long work days, and the afternoon slump.",
+      "price": 2499,
+      "compareAt": null,
+      "category": "supplements",
+      "collections": [
+        "supplements"
+      ],
+      "flavor": "Lemon Lime",
+      "servingText": "1 stick (3.5 g)",
+      "servings": 30,
+      "stock": 620,
+      "featured": false,
+      "badge": "New",
+      "images": [
+        "/images/electrolyte.webp"
+      ],
+      "macros": {
+        "Sodium": "420 mg",
+        "Potassium": "250 mg",
+        "Magnesium": "150 mg",
+        "Sugar": "0 g",
+        "Calories": "5"
+      },
+      "ingredients": "Sea salt (sodium), potassium citrate, magnesium citrate, citric acid, natural lemon lime flavor, stevia leaf extract.",
+      "details": "Most \"electrolyte\" drinks are sugar with a label. This is the opposite: 420 mg of sodium (the one most people under-consume), 250 mg of potassium, and 150 mg of magnesium per stick, with zero sugar.\n\nLemon lime flavor that does not taste like battery acid. One stick in a liter of water, in the shaker, or in your morning coffee routine.\n\nPerfect alongside Ignite Pre-Workout — the pre hits the central nervous system, the electrolytes keep the tank from running dry.",
+      "rating": 4.8,
+      "ratingCount": 502,
+      "createdAt": "2026-01-20 09:00:00",
+      "id": 8,
+      "defaultSize": "30 sticks",
+      "sizes": [
+        {
+          "label": "10 sticks",
+          "price": 899
+        },
+        {
+          "label": "20 sticks",
+          "price": 1699
+        },
+        {
+          "label": "30 sticks",
+          "price": 2499
+        },
+        {
+          "label": "60 sticks",
+          "price": 4499
+        },
+        {
+          "label": "90 sticks",
+          "price": 6299
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": 1,
+      "author": "Marcus T.",
+      "rating": 5,
+      "title": "Mixes like a milkshake",
+      "body": "Zero clumps with water, which I thought was a myth for cocoa. The taste is genuinely good — like a hot cocoa without the hot part.",
+      "verified": true,
+      "createdAt": "2026-01-14"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "author": "Priya S.",
+      "rating": 5,
+      "title": "The cocoa one is actually dessert",
+      "body": "Tried five isolates this year. This is the first one my partner stole from my shaker. 27 g of protein, no sugar, done.",
+      "verified": true,
+      "createdAt": "2025-12-02"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "author": "Dana W.",
+      "rating": 4,
+      "title": "Solid isolate, a bit premium",
+      "body": "Performance is spot on and digestion is clean. Price is on the high side but the compare-at discount makes it reasonable.",
+      "verified": false,
+      "createdAt": "2025-11-19"
+    },
+    {
+      "id": 4,
+      "productId": 1,
+      "author": "Leo K.",
+      "rating": 5,
+      "title": "Post-leg-day savior",
+      "body": "Been on it for three months of a push/pull/legs split. Recovery mornings feel noticeably better. Repurchase is automatic now.",
+      "verified": true,
+      "createdAt": "2025-10-08"
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "author": "Sam R.",
+      "rating": 5,
+      "title": "10 months in, PRs everywhere",
+      "body": "5 g daily, no loading, no side effects. Deadlift went 95 to 120 kg. The science is real.",
+      "verified": true,
+      "createdAt": "2026-01-22"
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "author": "Aiko M.",
+      "rating": 5,
+      "title": "Tastes like nothing, exactly right",
+      "body": "It disappears into lemonade. Micronized means no gritty powder at the bottom of the cup, which used to drive me crazy.",
+      "verified": true,
+      "createdAt": "2025-12-30"
+    },
+    {
+      "id": 7,
+      "productId": 2,
+      "author": "Jorge L.",
+      "rating": 4,
+      "title": "Big tub, small quibble",
+      "body": "60 servings is great value. Only gripe is the scoop is tiny, so I measure with a kitchen scale instead.",
+      "verified": false,
+      "createdAt": "2025-11-11"
+    },
+    {
+      "id": 8,
+      "productId": 2,
+      "author": "Emily B.",
+      "rating": 5,
+      "title": "The only one I trust",
+      "body": "I check the label of everything I put in my body. One ingredient, third-party tested, price you can see. No reason to buy anything else.",
+      "verified": true,
+      "createdAt": "2025-09-25"
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "author": "Tyler H.",
+      "rating": 5,
+      "title": "Cleanest buzz I have had",
+      "body": "250 mg caffeine usually makes me twitchy. The theanine keeps it smooth — focused for the whole session, asleep fine at 11.",
+      "verified": true,
+      "createdAt": "2026-01-25"
+    },
+    {
+      "id": 10,
+      "productId": 3,
+      "author": "Nina P.",
+      "rating": 5,
+      "title": "Citrus hits different",
+      "body": "Flavor is bright, not chemical. Pump on upper days was real the first week. I am on stick two already.",
+      "verified": true,
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": 11,
+      "productId": 3,
+      "author": "Owen F.",
+      "rating": 4,
+      "title": "Start with half a scoop",
+      "body": "If you are not used to pre, honor the warning and go half a scoop first. The tingles from beta-alanine are fun once you accept them.",
+      "verified": false,
+      "createdAt": "2025-12-19"
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "author": "Grace Y.",
+      "rating": 5,
+      "title": "No fishy burps, no joke",
+      "body": "I am sensitive to fishy aftertaste from most D3/Omega products. Two softgels in the morning, zero issues.",
+      "verified": true,
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": 13,
+      "productId": 4,
+      "author": "Ahmed K.",
+      "rating": 5,
+      "title": "Whole-food dosing is refreshing",
+      "body": "I checked the label against the recommended intakes. They are honest doses, not a marketing megadose of the cheap stuff.",
+      "verified": true,
+      "createdAt": "2025-11-28"
+    },
+    {
+      "id": 14,
+      "productId": 4,
+      "author": "Ruth D.",
+      "rating": 4,
+      "title": "Big pills, but they go down",
+      "body": "The softgels are chunky, so I take them with a full glass of water. Energy levels have been steadier since I started.",
+      "verified": false,
+      "createdAt": "2025-10-17"
+    },
+    {
+      "id": 15,
+      "productId": 5,
+      "author": "Chris M.",
+      "rating": 5,
+      "title": "Third-party tested actually matters",
+      "body": "I compare COAs before buying fish oil. ProTine publishes theirs per batch. 1 g EPA+DHA per softgel is the number I wanted.",
+      "verified": true,
+      "createdAt": "2025-12-12"
+    },
+    {
+      "id": 16,
+      "productId": 5,
+      "author": "Lena V.",
+      "rating": 4,
+      "title": "Soft, clean, no aftertaste",
+      "body": "Enteric coating works — no reflux, no burps. One star withheld only because I wish the bottle were a touch smaller.",
+      "verified": false,
+      "createdAt": "2025-10-30"
+    },
+    {
+      "id": 17,
+      "productId": 5,
+      "author": "Paul O.",
+      "rating": 5,
+      "title": "Replaced three other brands",
+      "body": "I was juggling two fish oils to hit my dose. This one softgel per day does it. Joints feel less creaky on cold mornings.",
+      "verified": true,
+      "createdAt": "2025-09-14"
+    },
+    {
+      "id": 18,
+      "productId": 6,
+      "author": "Sophie A.",
+      "rating": 5,
+      "title": "My sleep changed",
+      "body": "Four gummies 40 minutes before bed. A week in, I am falling asleep faster and waking less in the night. That is the whole review.",
+      "verified": true,
+      "createdAt": "2026-01-18"
+    },
+    {
+      "id": 19,
+      "productId": 6,
+      "author": "Dev P.",
+      "rating": 5,
+      "title": "Grown-up gummy, not candy",
+      "body": "Tart cherry flavor is mild and not sticky. 2 g of sugar means my kids cannot guilt-trip me with the \"sugar\" argument.",
+      "verified": true,
+      "createdAt": "2025-12-06"
+    },
+    {
+      "id": 20,
+      "productId": 6,
+      "author": "Hannah G.",
+      "rating": 5,
+      "title": "Calm, not groggy",
+      "body": "Unlike the melatonin-adjacent gummies I tried before, next morning is clear. Magnesium glycinate does what it says.",
+      "verified": true,
+      "createdAt": "2025-11-02"
+    },
+    {
+      "id": 21,
+      "productId": 7,
+      "author": "Mia C.",
+      "rating": 5,
+      "title": "My joints thank me",
+      "body": "Runner with runner knees. Twelve grams a day in my morning coffee for two months — the 8 a.m. stiffness is much lighter.",
+      "verified": true,
+      "createdAt": "2025-12-20"
+    },
+    {
+      "id": 22,
+      "productId": 7,
+      "author": "Rob S.",
+      "rating": 4,
+      "title": "Vanilla-ish, mixes fine",
+      "body": "Dissolves clear in hot and cold. It does have a faint savory note in hot water, but in a smoothie you never notice it.",
+      "verified": false,
+      "createdAt": "2025-10-22"
+    },
+    {
+      "id": 23,
+      "productId": 7,
+      "author": "Isabelle N.",
+      "rating": 4,
+      "title": "Nails look better",
+      "body": "Six weeks in, my nails have stopped peeling and hair feels less brittle. Hard to prove cause and effect, but I am not stopping.",
+      "verified": true,
+      "createdAt": "2025-11-25"
+    },
+    {
+      "id": 24,
+      "productId": 8,
+      "author": "Ben Z.",
+      "rating": 5,
+      "title": "No sugar, no crash",
+      "body": "Swapped my mid-afternoon soda for a lemon lime stick. Same lift, none of the 4 p.m. slide. The salt level is actually right.",
+      "verified": true,
+      "createdAt": "2026-02-03"
+    },
+    {
+      "id": 25,
+      "productId": 8,
+      "author": "Carla E.",
+      "rating": 5,
+      "title": "Coffee + this = my morning",
+      "body": "One stick in a big water bottle at my desk, sipped through the morning. Keeps me hydrated without the sweet aftertaste.",
+      "verified": true,
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": 26,
+      "productId": 8,
+      "author": "Tom A.",
+      "rating": 4,
+      "title": "Salty by design",
+      "body": "If you have not had a serious electrolyte powder, the first sip is a wake-up call. It is supposed to be that saline. Gets better.",
+      "verified": false,
+      "createdAt": "2025-12-28"
+    }
+  ]
+}
